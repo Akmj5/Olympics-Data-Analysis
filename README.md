@@ -15,3 +15,8 @@
 -> Identified key patterns and trends in Olympic data, such as changes in medal distribution and athlete demographics over time.
 
 -> Presented findings through visualizations and reports, aiding in understanding Olympic history and trends.
+
+# Live Link
+[Deployed app link](https://olympics-data-analysis-ntyv2sngzmvkitezn3strg.streamlit.app/)
+
+
